@@ -14,10 +14,12 @@ My core tech stack includes:
     
   - Blockchain: Solana, smart contract development
 
+
+
 📫 Contact Me:
     
   - GitHub
   - LinkedIn
   - Telegram
 
-📧 Email: your.email@example.com
+📧 Email: apt.lav@gmail.com
