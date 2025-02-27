@@ -13,3 +13,11 @@ My core tech stack includes:
   - DevOps: Docker
     
   - Blockchain: Solana, smart contract development
+
+📫 Contact Me:
+    
+  - GitHub
+  - LinkedIn
+  - Telegram
+
+📧 Email: your.email@example.com
