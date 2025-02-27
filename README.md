@@ -18,8 +18,7 @@ My core tech stack includes:
 
 📫 Contact Me:
     
-  - GitHub
-  - LinkedIn
-  - Telegram
+  - LinkedIn – www.linkedin.com/in/artem-lavrenyuk-590663245
+  - Telegram – 
 
 📧 Email: apt.lav@gmail.com
