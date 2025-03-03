@@ -8,7 +8,7 @@ My core tech stack includes:
 
   - Backend: ASP.NET Core, C#, EF Core, Marten, MassTransit, Redis, PostgreSQL
     
-  - Frontend: React, TypeScript, JavaScript, TailwindCSS
+  - Frontend: React, TypeScript, JavaScript, TailwindCSS, Axios, MobX
     
   - DevOps: Docker
     
