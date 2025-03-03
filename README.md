@@ -6,7 +6,7 @@ I'm currently working on a fintech startup focused on cryptocurrency implementat
 
 My core tech stack includes:
 
-  - Backend: ASP.NET Core, C#, EF Core, Marten, MassTransit, Redis, PostgreSQL
+  - Backend: ASP.NET Core, C#, Marten, MassTransit, Redis, PostgreSQL
     
   - Frontend: React, TypeScript, JavaScript, TailwindCSS, Axios, MobX
     
